@@ -1,0 +1,14 @@
+********** 03/07/2016 22:00:44 **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+User: WIN-DN4SEOC8F4C\Vince Method Name: Ciclo
+Stack Trace: 
+   at LogUtility.Program.Main(String[] args)
+
+********** 03/07/2016 22:04:41 **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+User: WIN-DN4SEOC8F4C\Vince Method Name: Ciclo
+Stack Trace: 
+   at LogUtility.Program.Main(String[] args) in C:\Livio\dotNET\LogUtility\LogUtility\Clients\Program.cs:line 26
+
