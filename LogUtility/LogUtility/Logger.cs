@@ -9,7 +9,7 @@ namespace LogUtility
 {
     public class Logger
     {
-        
+        public static String currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
         private Logger()
         { }
 
@@ -22,7 +22,7 @@ namespace LogUtility
         public static void LogException(string user, Exception exc, string methodName)
         {
 
-            String logFile = Constants.currentDirectory + @"\" + Constants.logExceptionFileName;
+            String logFile = currentDirectory + @"\" + Constants.logExceptionFileName;
 
             StreamWriter sw = new StreamWriter(logFile, true);
             sw.WriteLine("********** {0} **********", DateTime.Now);
@@ -66,7 +66,7 @@ namespace LogUtility
         {
             
 
-            String logFile = Constants.currentDirectory + @"\" + Constants.logEventFileName;
+            String logFile = currentDirectory + @"\" + Constants.logEventFileName;
 
             StreamWriter sw = new StreamWriter(logFile, true);
             sw.WriteLine("********** {0} **********", DateTime.Now);

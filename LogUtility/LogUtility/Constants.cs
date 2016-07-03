@@ -8,8 +8,7 @@ namespace LogUtility
 {
     public class Constants
     {
-        public static String currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
-
+        
         public static String logExceptionFileName = "LogExceptionFile.txt";
         public static String logEventFileName = "LogEventFile.txt";
 
