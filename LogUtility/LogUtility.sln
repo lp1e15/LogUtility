@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogUtility", "LogUtility\LogUtility.csproj", "{C9B0ACA7-E4DE-4849-BEAB-119ED8A15495}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogUtility.Tests", "LogUtility.Tests\LogUtility.Tests.csproj", "{9DEE8915-8877-45F4-96B0-68990355B405}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C9B0ACA7-E4DE-4849-BEAB-119ED8A15495}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9B0ACA7-E4DE-4849-BEAB-119ED8A15495}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9B0ACA7-E4DE-4849-BEAB-119ED8A15495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEE8915-8877-45F4-96B0-68990355B405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEE8915-8877-45F4-96B0-68990355B405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEE8915-8877-45F4-96B0-68990355B405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEE8915-8877-45F4-96B0-68990355B405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

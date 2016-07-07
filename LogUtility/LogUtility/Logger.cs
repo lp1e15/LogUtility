@@ -9,7 +9,7 @@ namespace LogUtility
 {
     public class Logger
     {
-        public static String currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
+        private static String currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
         private Logger()
         { }
 

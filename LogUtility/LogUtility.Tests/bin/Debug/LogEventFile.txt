@@ -1,0 +1,32 @@
+********** 04/07/2016 00:47:49 **********
+User: x Method Name: y
+Descriction: z
+
+********** 04/07/2016 00:48:09 **********
+User: x Method Name: y
+Descriction: z
+
+********** 04/07/2016 00:50:33 **********
+User: x Method Name: y
+Descriction: z
+
+********** 04/07/2016 00:51:19 **********
+User: x Method Name: y
+Descriction: z
+
+********** 04/07/2016 00:59:13 **********
+User: x Method Name: y
+Descriction: z
+
+********** 04/07/2016 01:00:00 **********
+User: x Method Name: y
+Descriction: z
+
+********** 04/07/2016 01:12:23 **********
+User: x Method Name: y
+Descriction: z
+
+********** 04/07/2016 01:12:23 **********
+User: C:\Livio\dotNET\LogUtility\LogUtility.Tests\bin\Debug Method Name: 
+Descriction: 
+
