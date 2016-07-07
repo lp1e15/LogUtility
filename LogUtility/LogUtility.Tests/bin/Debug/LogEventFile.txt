@@ -30,3 +30,11 @@ Descriction: z
 User: C:\Livio\dotNET\LogUtility\LogUtility.Tests\bin\Debug Method Name: 
 Descriction: 
 
+********** 07/07/2016 17:15:05 **********
+User: x Method Name: y
+Descriction: z
+
+********** 07/07/2016 17:15:05 **********
+User: C:\Livio\dotNET\LogUtility\LogUtility.Tests\bin\Debug Method Name: 
+Descriction: 
+

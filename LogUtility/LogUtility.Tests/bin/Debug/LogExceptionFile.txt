@@ -54,3 +54,17 @@ User: x Method Name:
 Stack Trace: 
    at LogUtility.Tests.InvokerTest.InvokerInnerException() in C:\Livio\dotNET\LogUtility\LogUtility.Tests\InvokerTest.cs:line 54
 
+********** 07/07/2016 17:15:05 **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+User: x Method Name: 
+Stack Trace: 
+   at LogUtility.Tests.InvokerTest.InvokerException() in C:\Livio\dotNET\LogUtility\LogUtility.Tests\InvokerTest.cs:line 35
+
+********** 07/07/2016 17:15:05 **********
+Exception Type: System.Exception
+Exception: Exception of type 'System.Exception' was thrown.
+User: x Method Name: 
+Stack Trace: 
+   at LogUtility.Tests.InvokerTest.InvokerInnerException() in C:\Livio\dotNET\LogUtility\LogUtility.Tests\InvokerTest.cs:line 54
+
