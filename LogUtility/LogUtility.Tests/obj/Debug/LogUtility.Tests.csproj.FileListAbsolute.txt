@@ -1,7 +1,0 @@
-C:\Livio\dotNET\LogUtility\LogUtility.Tests\bin\Debug\LogUtility.Tests.dll
-C:\Livio\dotNET\LogUtility\LogUtility.Tests\bin\Debug\LogUtility.Tests.pdb
-C:\Livio\dotNET\LogUtility\LogUtility.Tests\obj\Debug\LogUtility.Tests.csprojResolveAssemblyReference.cache
-C:\Livio\dotNET\LogUtility\LogUtility.Tests\obj\Debug\LogUtility.Tests.dll
-C:\Livio\dotNET\LogUtility\LogUtility.Tests\obj\Debug\LogUtility.Tests.pdb
-C:\Livio\dotNET\LogUtility\LogUtility.Tests\bin\Debug\LogUtility.exe
-C:\Livio\dotNET\LogUtility\LogUtility.Tests\bin\Debug\LogUtility.pdb

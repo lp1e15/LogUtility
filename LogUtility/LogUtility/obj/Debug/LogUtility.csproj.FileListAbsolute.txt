@@ -1,6 +1,0 @@
-C:\Livio\dotNET\LogUtility\LogUtility\bin\Debug\LogUtility.exe.config
-C:\Livio\dotNET\LogUtility\LogUtility\bin\Debug\LogUtility.exe
-C:\Livio\dotNET\LogUtility\LogUtility\bin\Debug\LogUtility.pdb
-C:\Livio\dotNET\LogUtility\LogUtility\obj\Debug\LogUtility.csprojResolveAssemblyReference.cache
-C:\Livio\dotNET\LogUtility\LogUtility\obj\Debug\LogUtility.exe
-C:\Livio\dotNET\LogUtility\LogUtility\obj\Debug\LogUtility.pdb
